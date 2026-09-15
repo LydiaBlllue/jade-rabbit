@@ -1,0 +1,9 @@
+{
+  "usd_cad": 1.3712,
+  "asof": "2026-09-04",
+  "quality": "broker-rate",
+  "source": "Broker activities export 2026-09-06: the 'FX Rate:' rows on the latest date. It is the broker's rate, spread included.",
+  "todo": "Refresh from every activities export.",
+  "why_it_matters": "USD exposure inside the Portfolio is $16,800 (25.0% of the CAD side); 1% on the rate is ±$168",
+  "history": []
+}

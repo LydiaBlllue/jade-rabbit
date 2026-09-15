@@ -1,0 +1,8 @@
+{
+  "note": "Who this workspace belongs to. The FIRST thing to change when you make it yours: the name appears in the browser tab and under the Jade Toad wordmark in the sidebar, and it is read from here so it is never typed into the HTML. Jade Toad itself is the product, not a setting.",
+  "schema": 9,
+  "demo": true,
+  "owner": "Emma Roy",
+  "born": 1995,
+  "importDay": 26
+}

@@ -1,0 +1,77 @@
+date,description,amount,balance,statement,type,label
+2025-12-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,3940.55,BMOCHQ4471/20260105,Payroll,Payroll deposit (ADP)
+2025-12-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3540.55,BMOCHQ4471/20260105,Transfer,Transfer to Wealthsimple
+2025-12-20,INTERAC e-Transfer sent EMMA ROY,-650.00,2890.55,BMOCHQ4471/20260105,Transfer,e-Transfer to RBC chequing
+2025-12-31,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4690.55,BMOCHQ4471/20260105,Payroll,Payroll deposit (ADP)
+2025-12-31,PerformancePlanFee,-16.95,4673.60,BMOCHQ4471/20260105,Fee,Plan fee
+2026-01-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,3423.60,BMOCHQ4471/20260105,Rent,Rent (pre-authorized)
+2026-01-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3023.60,BMOCHQ4471/20260105,Transfer,Transfer to Wealthsimple
+2026-01-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4823.60,BMOCHQ4471/20260205,Payroll,Payroll deposit (ADP)
+2026-01-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4423.60,BMOCHQ4471/20260205,Transfer,Transfer to Wealthsimple
+2026-01-20,INTERAC e-Transfer sent EMMA ROY,-750.00,3673.60,BMOCHQ4471/20260205,Transfer,e-Transfer to RBC chequing
+2026-01-31,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,5473.60,BMOCHQ4471/20260205,Payroll,Payroll deposit (ADP)
+2026-01-31,PerformancePlanFee,-16.95,5456.65,BMOCHQ4471/20260205,Fee,Plan fee
+2026-02-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,4206.65,BMOCHQ4471/20260205,Rent,Rent (pre-authorized)
+2026-02-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3806.65,BMOCHQ4471/20260205,Transfer,Transfer to Wealthsimple
+2026-02-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,5606.65,BMOCHQ4471/20260305,Payroll,Payroll deposit (ADP)
+2026-02-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,5206.65,BMOCHQ4471/20260305,Transfer,Transfer to Wealthsimple
+2026-02-20,INTERAC e-Transfer sent EMMA ROY,-1310.00,3896.65,BMOCHQ4471/20260305,Transfer,e-Transfer to RBC chequing
+2026-02-28,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,5696.65,BMOCHQ4471/20260305,Payroll,Payroll deposit (ADP)
+2026-02-28,PerformancePlanFee,-16.95,5679.70,BMOCHQ4471/20260305,Fee,Plan fee
+2026-03-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,4429.70,BMOCHQ4471/20260305,Rent,Rent (pre-authorized)
+2026-03-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4029.70,BMOCHQ4471/20260305,Transfer,Transfer to Wealthsimple
+2026-03-03,INTERAC e-Transfer sent SAM DOE,-1500.00,2529.70,BMOCHQ4471/20260305,Repayment,e-Transfer to Sam (loan)
+2026-03-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4329.70,BMOCHQ4471/20260405,Payroll,Payroll deposit (ADP)
+2026-03-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3929.70,BMOCHQ4471/20260405,Transfer,Transfer to Wealthsimple
+2026-03-20,INTERAC e-Transfer sent EMMA ROY,-980.00,2949.70,BMOCHQ4471/20260405,Transfer,e-Transfer to RBC chequing
+2026-03-25,"Contactless Interac purchase,SHOPPERS DRUG MART 0781",-24.60,2925.10,BMOCHQ4471/20260405,Debit purchase,Debit purchase — Shoppers Drug Mart
+2026-03-31,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4725.10,BMOCHQ4471/20260405,Payroll,Payroll deposit (ADP)
+2026-03-31,PerformancePlanFee,-16.95,4708.15,BMOCHQ4471/20260405,Fee,Plan fee
+2026-04-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,3458.15,BMOCHQ4471/20260405,Rent,Rent (pre-authorized)
+2026-04-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3058.15,BMOCHQ4471/20260405,Transfer,Transfer to Wealthsimple
+2026-04-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4858.15,BMOCHQ4471/20260505,Payroll,Payroll deposit (ADP)
+2026-04-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4458.15,BMOCHQ4471/20260505,Transfer,Transfer to Wealthsimple
+2026-04-20,INTERAC e-Transfer sent EMMA ROY,-1340.00,3118.15,BMOCHQ4471/20260505,Transfer,e-Transfer to RBC chequing
+2026-04-30,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4918.15,BMOCHQ4471/20260505,Payroll,Payroll deposit (ADP)
+2026-04-30,PerformancePlanFee,-16.95,4901.20,BMOCHQ4471/20260505,Fee,Plan fee
+2026-05-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,3651.20,BMOCHQ4471/20260505,Rent,Rent (pre-authorized)
+2026-05-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3251.20,BMOCHQ4471/20260505,Transfer,Transfer to Wealthsimple
+2026-05-05,"OnlineTransfer,TF0006#4471-9032",-500.00,2751.20,BMOCHQ4471/20260505,Transfer,Transfer to savings
+2026-05-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4551.20,BMOCHQ4471/20260605,Payroll,Payroll deposit (ADP)
+2026-05-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4151.20,BMOCHQ4471/20260605,Transfer,Transfer to Wealthsimple
+2026-05-20,INTERAC e-Transfer sent EMMA ROY,-800.00,3351.20,BMOCHQ4471/20260605,Transfer,e-Transfer to RBC chequing
+2026-05-22,"OnlineTransfer,TF00055198800455518",-303.41,3047.79,BMOCHQ4471/20260605,CC payment,MasterCard payment
+2026-05-31,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4847.79,BMOCHQ4471/20260605,Payroll,Payroll deposit (ADP)
+2026-05-31,PerformancePlanFee,-16.95,4830.84,BMOCHQ4471/20260605,Fee,Plan fee
+2026-06-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,3580.84,BMOCHQ4471/20260605,Rent,Rent (pre-authorized)
+2026-06-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,3180.84,BMOCHQ4471/20260605,Transfer,Transfer to Wealthsimple
+2026-06-05,"OnlineTransfer,TF0006#4471-9032",-500.00,2680.84,BMOCHQ4471/20260605,Transfer,Transfer to savings
+2026-06-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4480.84,BMOCHQ4471/20260705,Payroll,Payroll deposit (ADP)
+2026-06-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4080.84,BMOCHQ4471/20260705,Transfer,Transfer to Wealthsimple
+2026-06-20,INTERAC e-Transfer sent EMMA ROY,-1390.00,2690.84,BMOCHQ4471/20260705,Transfer,e-Transfer to RBC chequing
+2026-06-22,"OnlineTransfer,TF00055198800455518",-166.07,2524.77,BMOCHQ4471/20260705,CC payment,MasterCard payment
+2026-06-30,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,4324.77,BMOCHQ4471/20260705,Payroll,Payroll deposit (ADP)
+2026-06-30,PerformancePlanFee,-16.95,4307.82,BMOCHQ4471/20260705,Fee,Plan fee
+2026-07-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,3057.82,BMOCHQ4471/20260705,Rent,Rent (pre-authorized)
+2026-07-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,2657.82,BMOCHQ4471/20260705,Transfer,Transfer to Wealthsimple
+2026-07-05,"OnlineTransfer,TF0006#4471-9032",-500.00,2157.82,BMOCHQ4471/20260705,Transfer,Transfer to savings
+2026-07-13,INTERACe-TransferReceived,1500.00,3657.82,BMOCHQ4471/20260805,Repayment,e-Transfer from Sam (repayment)
+2026-07-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,5457.82,BMOCHQ4471/20260805,Payroll,Payroll deposit (ADP)
+2026-07-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,5057.82,BMOCHQ4471/20260805,Transfer,Transfer to Wealthsimple
+2026-07-20,INTERAC e-Transfer sent EMMA ROY,-690.00,4367.82,BMOCHQ4471/20260805,Transfer,e-Transfer to RBC chequing
+2026-07-22,"OnlineTransfer,TF00055198800455518",-112.18,4255.64,BMOCHQ4471/20260805,CC payment,MasterCard payment
+2026-07-31,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,6055.64,BMOCHQ4471/20260805,Payroll,Payroll deposit (ADP)
+2026-07-31,PerformancePlanFee,-16.95,6038.69,BMOCHQ4471/20260805,Fee,Plan fee
+2026-08-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,4788.69,BMOCHQ4471/20260805,Rent,Rent (pre-authorized)
+2026-08-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4388.69,BMOCHQ4471/20260805,Transfer,Transfer to Wealthsimple
+2026-08-05,"OnlineTransfer,TF0006#4471-9032",-500.00,3888.69,BMOCHQ4471/20260805,Transfer,Transfer to savings
+2026-08-11,INTERACe-TransferReceived,200.00,4088.69,BMOCHQ4471/20260905,Other,e-Transfer received
+2026-08-15,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,5888.69,BMOCHQ4471/20260905,Payroll,Payroll deposit (ADP)
+2026-08-17,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,5488.69,BMOCHQ4471/20260905,Transfer,Transfer to Wealthsimple
+2026-08-20,INTERAC e-Transfer sent EMMA ROY,-870.00,4618.69,BMOCHQ4471/20260905,Transfer,e-Transfer to RBC chequing
+2026-08-22,"OnlineTransfer,TF00055198800455518",-153.43,4465.26,BMOCHQ4471/20260905,CC payment,MasterCard payment
+2026-08-31,"DirectDeposit,ADP CANADA PAY/PAY",1800.00,6265.26,BMOCHQ4471/20260905,Payroll,Payroll deposit (ADP)
+2026-08-31,PerformancePlanFee,-16.95,6248.31,BMOCHQ4471/20260905,Fee,Plan fee
+2026-09-01,"Pre-AuthorizedPayment,OTTAWA PROP MGMT RENT",-1250.00,4998.31,BMOCHQ4471/20260905,Rent,Rent (pre-authorized)
+2026-09-02,"Pre-AuthorizedPayment,WSINVESTMENTSINV/PLA",-400.00,4598.31,BMOCHQ4471/20260905,Transfer,Transfer to Wealthsimple
+2026-09-05,"OnlineTransfer,TF0006#4471-9032",-500.00,4098.31,BMOCHQ4471/20260905,Transfer,Transfer to savings

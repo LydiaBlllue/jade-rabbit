@@ -1,0 +1,30 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/skills/workspace-checks/scripts/hook.py\"",
+            "timeout": 60,
+            "statusMessage": "Checking the workspace…"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/skills/update-dashboard/scripts/preflight.py\" \"$CLAUDE_PROJECT_DIR\" --session",
+            "timeout": 30,
+            "statusMessage": "Checking inbox/ and findata/…"
+          }
+        ]
+      }
+    ]
+  }
+}

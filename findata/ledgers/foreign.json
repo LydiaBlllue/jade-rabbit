@@ -1,0 +1,15 @@
+{
+  "asof": "2026-09-08",
+  "currency": null,
+  "symbol": "",
+  "label": "Foreign",
+  "cadPerUnit": 0,
+  "total": 0,
+  "source": "No foreign-currency accounts in this build. The file exists because the tool reads it; an empty list is the supported way to say 'none'.",
+  "accounts": [],
+  "summary": {
+    "cash": 0,
+    "invested": 0,
+    "cash_share_pct": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "note": "One snapshot per 'update dashboards'. Portfolio = the accounts marked Portfolio in accounts.json; dry / dryPct on the CAD side.",
+  "snapshots": [
+    {
+      "date": "2026-06-15",
+      "cadInv": 61204.4,
+      "dry": 24110.2,
+      "dryPct": 39.4,
+      "tickers": 9,
+      "foreign": null
+    },
+    {
+      "date": "2026-08-05",
+      "cadInv": 64851.7,
+      "dry": 27302.1,
+      "dryPct": 42.1,
+      "tickers": 8,
+      "foreign": null,
+      "fx": 1.369
+    },
+    {
+      "date": "2026-09-06",
+      "cadInv": 67135.0,
+      "dry": 28950.0,
+      "dryPct": 43.1,
+      "tickers": 8,
+      "foreign": null,
+      "fx": 1.3712
+    }
+  ]
+}

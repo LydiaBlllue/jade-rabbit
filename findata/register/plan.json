@@ -1,0 +1,56 @@
+{
+  "note": "Your planning assumptions. `planBase` is the monthly planning spend the FIRE target is built on (× 12 × 25); `skipMonths` are months excluded from every comparison, each with the reason the page shows. `retirement` holds the projection scenarios and the late-life care model; `descriptions` are your own one-liners under the net-worth parts (leave them out and the page describes each part from the register).",
+  "planBase": 2550,
+  "skipMonths": {
+    "2025-12": "Only the tail of the first Visa statement — 11 days, not a month"
+  },
+  "retirement": {
+    "scenarios": [
+      {
+        "r": 0.03,
+        "c": "#9ec5f4",
+        "n": "3% real"
+      },
+      {
+        "r": 0.05,
+        "c": "#2a78d6",
+        "n": "5% real"
+      },
+      {
+        "r": 0.07,
+        "c": "#104281",
+        "n": "7% real"
+      }
+    ],
+    "horizon": 25,
+    "anchorYear": 2026,
+    "lifeTo": 95,
+    "coastR": 0.05,
+    "homeCare": {
+      "k": "Light care at home",
+      "v": 4200,
+      "esc": 0.015,
+      "d": "Around 4 hours a day of a PSW at roughly $35/hr — meals, cleaning, some personal care. Bought by the hour, so it climbs with wages"
+    },
+    "ltcTiers": [
+      {
+        "k": "Public · basic",
+        "v": 2100,
+        "esc": 0.003,
+        "d": "Shared room in a public long-term-care home. Province-set co-payment for accommodation only — the care itself is publicly funded. A rate reduction exists if income is low. Long waitlist"
+      },
+      {
+        "k": "Public · private",
+        "v": 3000,
+        "esc": 0.003,
+        "d": "Private room in the same public system. Same capped pricing, longer wait"
+      },
+      {
+        "k": "Private home",
+        "v": 6500,
+        "esc": 0.015,
+        "d": "Private retirement residence with a care package. No waitlist and no subsidy, and priced like any other private service, so it climbs with wages"
+      }
+    ]
+  }
+}

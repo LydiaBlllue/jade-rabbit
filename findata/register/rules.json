@@ -1,0 +1,82 @@
+{
+  "note": "Your investing rules, as data. ONE thing is computed: every bucket that carries a `target` is checked against that range, and the Rules page reports the drift. Buckets are matched in order and the one marked catchAll takes whatever is left. `notes` are your own theses, shown with the status you gave them and judged by you; `{mv:SYM}`, `{n:SYM}` and `{split:SYM}` in the text are filled from the holdings. `checkpoints` are dates you promised to look at something again.",
+  "buckets": [
+    {
+      "key": "dry",
+      "name": "Safe end · dry powder",
+      "symbols": [
+        "SGOV",
+        "VSC"
+      ],
+      "target": [
+        40,
+        45
+      ]
+    },
+    {
+      "key": "core",
+      "name": "Core index",
+      "symbols": [
+        "VEQT",
+        "XAW",
+        "VCN"
+      ]
+    },
+    {
+      "key": "sat",
+      "name": "High-conviction satellites",
+      "symbols": [
+        "SHOP",
+        "BN"
+      ]
+    },
+    {
+      "key": "mid",
+      "name": "Middle tier · cleanup candidates",
+      "catchAll": true
+    }
+  ],
+  "maxHoldings": 10,
+  "notes": [
+    {
+      "status": "ok",
+      "name": "Account placement",
+      "text": "Growth names in the TFSA: SHOP {mv:SHOP} is TFSA-only since the August consolidation ✓. BN {mv:BN} sits in the RRSP. The one bond ETF outside the dry-powder pair (ZAG {mv:ZAG}) stays non-registered — small enough not to matter."
+    },
+    {
+      "status": "info",
+      "name": "SHOP — thesis check each quarter",
+      "text": "Held for merchant growth and take-rate expansion. Review on Q3 results in late October; GMV growth under +20% is the exit trigger."
+    },
+    {
+      "status": "info",
+      "name": "BN — 3–5 year structural position",
+      "text": "{mv:BN} in the RRSP. Checkpoint: investor day and Q3 distributable earnings."
+    },
+    {
+      "status": "ok",
+      "name": "Options — ≤28 DTE, named catalyst, ≤5 open",
+      "text": "No option positions in this export ✓."
+    }
+  ],
+  "checkpoints": [
+    {
+      "title": "BN investor day",
+      "date": "2026-09-24",
+      "label": "Sep 24",
+      "why": "Distributable earnings and the buyback pace — the reasons the position exists"
+    },
+    {
+      "title": "SHOP Q3 results",
+      "date": "2026-10-29",
+      "label": "Late October",
+      "why": "GMV growth under +20% is the exit trigger; otherwise hold"
+    },
+    {
+      "title": "RRSP deadline",
+      "date": "2027-03-01",
+      "label": "Mar 1, 2027",
+      "why": "Top up the RRSP before the deadline once the TFSA room is used"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Jade Toad: the moon toad as the Majiayao frog motif (c. 2500 BCE). Direction A of the logo sheet. -->
+  <circle cx="50" cy="50" r="46" stroke-width="3.2"/>
+  <g transform="translate(14 14) scale(0.72)" stroke-width="4.6">
+    <circle cx="50" cy="25" r="8"/><circle cx="50" cy="25" r="2" fill="currentColor" stroke="none"/>
+    <line x1="50" y1="33" x2="50" y2="76"/>
+    <polyline points="50,45 38,45 30,35 20,35"/><polyline points="50,45 62,45 70,35 80,35"/>
+    <polyline points="50,63 38,63 30,73 20,73"/><polyline points="50,63 62,63 70,73 80,73"/>
+    <path d="M20 35 L14 30 M20 35 L13 35 M20 35 L14 40 M80 35 L86 30 M80 35 L87 35 M80 35 L86 40"/>
+    <path d="M20 73 L14 68 M20 73 L13 73 M20 73 L14 78 M80 73 L86 68 M80 73 L87 73 M80 73 L86 78"/>
+  </g>
+</svg>

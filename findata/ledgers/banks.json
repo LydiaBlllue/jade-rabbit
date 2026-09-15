@@ -1,0 +1,64 @@
+{
+  "asof_note": "Balance and statement date per bank account. Replace the number and move the date on each import.",
+  "assets": [
+    {
+      "inst": "BMO",
+      "account": "Primary Chequing",
+      "balance": 4098.31,
+      "currency": "CAD",
+      "asof": "2026-09-05"
+    },
+    {
+      "inst": "BMO",
+      "account": "Savings Amplifier",
+      "balance": 2503.62,
+      "currency": "CAD",
+      "asof": "2026-09-05",
+      "note": "Opened 2026-05-05 with $500 a month from chequing. Its statement arrives in the same batch as chequing, with a -2 suffix."
+    },
+    {
+      "inst": "RBC",
+      "account": "High Interest eSavings",
+      "balance": 5000.0,
+      "currency": "CAD",
+      "asof": "2026-08-25",
+      "note": "The emergency fund. Balance only, no ledger."
+    },
+    {
+      "inst": "RBC",
+      "account": "Day to Day Banking",
+      "balance": 249.57,
+      "currency": "CAD",
+      "asof": "2026-08-25",
+      "flag": "Fed by an e-Transfer from BMO on the 20th; the Visa autopay comes out on the 22nd."
+    },
+    {
+      "inst": "Wealthsimple",
+      "account": "Chequing",
+      "balance": 620.0,
+      "currency": "CAD",
+      "asof": "2026-09-08",
+      "note": "Account WK7CQ1G90CAD. The doorway account: the two monthly transfers land here first (WSDEP counts only this account's EFTs). Read in the app; the holdings export has no cash accounts."
+    }
+  ],
+  "debts": [
+    {
+      "inst": "BMO",
+      "account": "MasterCard",
+      "balance": 153.43,
+      "currency": "CAD",
+      "asof": "2026-08-20",
+      "limit": 5000
+    },
+    {
+      "inst": "RBC",
+      "account": "Cash Back Visa",
+      "balance": 862.98,
+      "currency": "CAD",
+      "asof": "2026-08-19",
+      "limit": 3000,
+      "autopay": true
+    }
+  ],
+  "classification": "Bank cash is earmarked as the day-to-day buffer; it is never dry powder."
+}

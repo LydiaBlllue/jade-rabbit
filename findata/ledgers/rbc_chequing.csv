@@ -1,0 +1,41 @@
+date,description,amount,balance,statement,type,label
+2026-01-15,Contactless Interac purchase - 7740 FARM BOY #17,-11.63,400.67,RBCCHQ7740/20260125,Debit purchase,Debit purchase — Farm Boy #17
+2026-01-19,Contactless Interac purchase - 7740 FARM BOY #17,-11.03,389.64,RBCCHQ7740/20260125,Debit purchase,Debit purchase — Farm Boy #17
+2026-01-20,e-Transfer received EMMA ROY,750.00,1139.64,RBCCHQ7740/20260125,Transfer,e-Transfer from BMO chequing
+2026-01-22,RBC VISA 3306 autopay,-748.89,390.75,RBCCHQ7740/20260125,CC payment,Visa autopay
+2026-01-25,Monthly fee,-4.00,386.75,RBCCHQ7740/20260125,Fee,
+2026-02-10,Contactless Interac purchase - 7740 FARM BOY #17,-20.11,366.64,RBCCHQ7740/20260225,Debit purchase,Debit purchase — Farm Boy #17
+2026-02-10,Contactless Interac purchase - 7740 FARM BOY #17,-20.09,346.55,RBCCHQ7740/20260225,Debit purchase,Debit purchase — Farm Boy #17
+2026-02-20,e-Transfer received EMMA ROY,1310.00,1656.55,RBCCHQ7740/20260225,Transfer,e-Transfer from BMO chequing
+2026-02-22,RBC VISA 3306 autopay,-1303.39,353.16,RBCCHQ7740/20260225,CC payment,Visa autopay
+2026-02-25,Monthly fee,-4.00,349.16,RBCCHQ7740/20260225,Fee,
+2026-03-15,Contactless Interac purchase - 7740 FARM BOY #17,-18.21,330.95,RBCCHQ7740/20260325,Debit purchase,Debit purchase — Farm Boy #17
+2026-03-20,e-Transfer received EMMA ROY,980.00,1310.95,RBCCHQ7740/20260325,Transfer,e-Transfer from BMO chequing
+2026-03-20,Contactless Interac purchase - 7740 FARM BOY #17,-21.09,1289.86,RBCCHQ7740/20260325,Debit purchase,Debit purchase — Farm Boy #17
+2026-03-22,RBC VISA 3306 autopay,-974.61,315.25,RBCCHQ7740/20260325,CC payment,Visa autopay
+2026-03-25,Monthly fee,-4.00,311.25,RBCCHQ7740/20260325,Fee,
+2026-04-16,Contactless Interac purchase - 7740 FARM BOY #17,-11.71,299.54,RBCCHQ7740/20260425,Debit purchase,Debit purchase — Farm Boy #17
+2026-04-20,e-Transfer received EMMA ROY,1340.00,1639.54,RBCCHQ7740/20260425,Transfer,e-Transfer from BMO chequing
+2026-04-21,Contactless Interac purchase - 7740 FARM BOY #17,-10.70,1628.84,RBCCHQ7740/20260425,Debit purchase,Debit purchase — Farm Boy #17
+2026-04-22,RBC VISA 3306 autopay,-1337.59,291.25,RBCCHQ7740/20260425,CC payment,Visa autopay
+2026-04-25,Monthly fee,-4.00,287.25,RBCCHQ7740/20260425,Fee,
+2026-05-14,Contactless Interac purchase - 7740 FARM BOY #17,-10.42,276.83,RBCCHQ7740/20260525,Debit purchase,Debit purchase — Farm Boy #17
+2026-05-20,e-Transfer received EMMA ROY,800.00,1076.83,RBCCHQ7740/20260525,Transfer,e-Transfer from BMO chequing
+2026-05-22,RBC VISA 3306 autopay,-795.37,281.46,RBCCHQ7740/20260525,CC payment,Visa autopay
+2026-05-23,Contactless Interac purchase - 7740 TIM HORTONS #2231,-6.52,274.94,RBCCHQ7740/20260525,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-05-25,Monthly fee,-4.00,270.94,RBCCHQ7740/20260525,Fee,
+2026-06-12,Contactless Interac purchase - 7740 TIM HORTONS #2231,-5.40,265.54,RBCCHQ7740/20260625,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-06-20,e-Transfer received EMMA ROY,1390.00,1655.54,RBCCHQ7740/20260625,Transfer,e-Transfer from BMO chequing
+2026-06-22,RBC VISA 3306 autopay,-1382.43,273.11,RBCCHQ7740/20260625,CC payment,Visa autopay
+2026-06-24,Contactless Interac purchase - 7740 TIM HORTONS #2231,-6.51,266.60,RBCCHQ7740/20260625,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-06-25,Monthly fee,-4.00,262.60,RBCCHQ7740/20260625,Fee,
+2026-07-11,Contactless Interac purchase - 7740 TIM HORTONS #2231,-4.59,258.01,RBCCHQ7740/20260725,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-07-12,Contactless Interac purchase - 7740 TIM HORTONS #2231,-6.02,251.99,RBCCHQ7740/20260725,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-07-20,e-Transfer received EMMA ROY,690.00,941.99,RBCCHQ7740/20260725,Transfer,e-Transfer from BMO chequing
+2026-07-22,RBC VISA 3306 autopay,-680.49,261.50,RBCCHQ7740/20260725,CC payment,Visa autopay
+2026-07-25,Monthly fee,-4.00,257.50,RBCCHQ7740/20260725,Fee,
+2026-08-09,Contactless Interac purchase - 7740 TIM HORTONS #2231,-5.67,251.83,RBCCHQ7740/20260825,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-08-19,Contactless Interac purchase - 7740 TIM HORTONS #2231,-5.28,246.55,RBCCHQ7740/20260825,Debit purchase,Debit purchase — Tim Hortons #2231
+2026-08-20,e-Transfer received EMMA ROY,870.00,1116.55,RBCCHQ7740/20260825,Transfer,e-Transfer from BMO chequing
+2026-08-22,RBC VISA 3306 autopay,-862.98,253.57,RBCCHQ7740/20260825,CC payment,Visa autopay
+2026-08-25,Monthly fee,-4.00,249.57,RBCCHQ7740/20260825,Fee,

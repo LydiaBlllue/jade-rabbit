@@ -1,0 +1,36 @@
+{
+  "note": "Open tasks, shown on Data → Tasks. Added and closed out loud by the owner; `due` is optional and sorts to the top; `status: done` moves a task to the closed list.",
+  "tasks": [
+    {
+      "added": "2026-09-06",
+      "tag": "Money",
+      "text": "Decide whether the emergency fund stays in RBC eSavings ($5,000, balance only) or moves to the high-yield account beside the two funds.",
+      "status": "open"
+    },
+    {
+      "added": "2026-09-07",
+      "tag": "Plan",
+      "text": "Big buys: the $429.99 monitor in June came out of the fund. Confirm the $250/month top-up still makes sense.",
+      "status": "open"
+    },
+    {
+      "added": "2026-09-07",
+      "due": "2027-03-01",
+      "tag": "Money",
+      "text": "RRSP top-up before the March 1 deadline — decide the amount once the January pay stubs are in.",
+      "status": "open"
+    },
+    {
+      "added": "2026-08-20",
+      "tag": "Data",
+      "text": "RBC eSavings has a balance but no ledger — decide whether the PDF is worth parsing line by line.",
+      "status": "open"
+    },
+    {
+      "added": "2026-08-12",
+      "tag": "Money",
+      "text": "Consolidate SHOP into the TFSA. <b>Done 2026-08-12</b> — bought 20.46 shares in the TFSA.",
+      "status": "done"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "asof_note": "The register of every place money sits (`accounts`) and every file dropped each month (`documents`). Balances here are COPIES of banks.json / holdings_latest.csv; check_data D14 re-derives them. Change the source file, not this one.",
+  "accounts": [
+    {
+      "inst": "BMO",
+      "id": "…4471",
+      "name": "Primary Chequing",
+      "kind": "Chequing",
+      "cur": "CAD",
+      "balance": 4098.31,
+      "asof": "2026-09-05",
+      "src": "banks.json",
+      "side": "asset",
+      "value": "statement",
+      "role": "buffer",
+      "reach": "today",
+      "ledger": "chequing.csv",
+      "feeds": "Income, Cash flow",
+      "key": "bmo-chq-4471",
+      "spendTag": "BMO4471",
+      "stmtTag": "BMOCHQ4471",
+      "stmtLabel": "BMO chq"
+    },
+    {
+      "inst": "BMO",
+      "id": "…9032",
+      "name": "Savings Amplifier",
+      "kind": "Savings",
+      "cur": "CAD",
+      "balance": 2503.62,
+      "asof": "2026-09-05",
+      "src": "banks.json",
+      "side": "asset",
+      "value": "statement",
+      "role": "buffer",
+      "reach": "today",
+      "ledger": "bmo_savings.csv",
+      "feeds": "Cash flow",
+      "key": "bmo-sav-9032",
+      "stmtTag": "BMOSAV9032"
+    },
+    {
+      "inst": "BMO",
+      "id": "…5518",
+      "name": "MasterCard",
+      "kind": "Credit card",
+      "cur": "CAD",
+      "balance": -153.43,
+      "asof": "2026-08-20",
+      "src": "banks.json",
+      "side": "liability",
+      "value": "statement",
+      "ledger": null,
+      "feeds": "Spending",
+      "key": "bmo-mc-5518",
+      "spendTag": "BMO5518",
+      "stmtLabel": "MC"
+    },
+    {
+      "inst": "RBC",
+      "id": "…7740",
+      "name": "Day to Day Banking",
+      "kind": "Chequing",
+      "cur": "CAD",
+      "balance": 249.57,
+      "asof": "2026-08-25",
+      "src": "banks.json",
+      "side": "asset",
+      "value": "statement",
+      "role": "buffer",
+      "reach": "today",
+      "ledger": "rbc_chequing.csv",
+      "feeds": "Cash flow, Spending",
+      "key": "rbc-chq-7740",
+      "spendTag": "RBC7740",
+      "stmtTag": "RBCCHQ7740",
+      "stmtLabel": "RBC chq"
+    },
+    {
+      "inst": "RBC",
+      "id": "…7758",
+      "name": "High Interest eSavings",
+      "kind": "Savings",
+      "cur": "CAD",
+      "balance": 5000.0,
+      "asof": "2026-08-25",
+      "src": "banks.json",
+      "side": "asset",
+      "value": "statement",
+      "role": "buffer",
+      "reach": "today",
+      "ledger": null,
+      "feeds": "",
+      "key": "rbc-esav-7758",
+      "gap": "esav-ledger"
+    },
+    {
+      "inst": "RBC",
+      "id": "…3306",
+      "name": "Cash Back Visa",
+      "kind": "Credit card",
+      "cur": "CAD",
+      "balance": -862.98,
+      "asof": "2026-08-19",
+      "src": "banks.json",
+      "side": "liability",
+      "value": "statement",
+      "ledger": null,
+      "feeds": "Spending",
+      "key": "rbc-visa-3306",
+      "spendTag": "RBC3306",
+      "stmtLabel": "Visa"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "HQ7NR6D48CAD",
+      "name": "Non-registered",
+      "kind": "Non-registered",
+      "cur": "CAD",
+      "balance": 21340.0,
+      "asof": "2026-09-06",
+      "src": "holdings_latest.csv",
+      "side": "asset",
+      "value": "export",
+      "role": "grow",
+      "reach": "today",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-nr"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "HQ7TF4A21CAD",
+      "name": "TFSA",
+      "kind": "TFSA",
+      "cur": "CAD",
+      "balance": 33110.0,
+      "asof": "2026-09-06",
+      "src": "holdings_latest.csv",
+      "side": "asset",
+      "value": "export",
+      "role": "grow",
+      "reach": "today",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-tfsa"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "HQ7HY3E05CAD",
+      "name": "High-yield savings",
+      "kind": "Non-registered",
+      "cur": "CAD",
+      "balance": 9500.01,
+      "asof": "2026-09-06",
+      "src": "holdings_latest.csv",
+      "side": "asset",
+      "value": "export",
+      "role": "set-aside",
+      "reach": "spoken",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-hys"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "HQ7FH2C17CAD",
+      "name": "FHSA",
+      "kind": "FHSA",
+      "cur": "CAD",
+      "balance": 13700.0,
+      "asof": "2026-09-06",
+      "src": "holdings_latest.csv",
+      "side": "asset",
+      "value": "export",
+      "role": "set-aside",
+      "reach": "spoken",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-fhsa"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "HQ7RR9B33CAD",
+      "name": "RRSP",
+      "kind": "RRSP",
+      "cur": "CAD",
+      "balance": 12335.0,
+      "asof": "2026-09-06",
+      "src": "holdings_latest.csv",
+      "side": "asset",
+      "value": "export",
+      "role": "grow",
+      "reach": "costs",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-rrsp"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "HQ7CR8F62CAD",
+      "name": "Crypto",
+      "kind": "Crypto",
+      "cur": "CAD",
+      "balance": 350.0,
+      "asof": "2026-09-06",
+      "src": "holdings_latest.csv",
+      "side": "asset",
+      "value": "export",
+      "role": "grow",
+      "reach": "today",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-crypto"
+    },
+    {
+      "inst": "Wealthsimple",
+      "id": "WK7CQ1G90CAD",
+      "name": "Chequing",
+      "kind": "Chequing",
+      "cur": "CAD",
+      "balance": 620.0,
+      "asof": "2026-09-08",
+      "src": "banks.json",
+      "side": "asset",
+      "value": "statement",
+      "role": "buffer",
+      "reach": "today",
+      "ledger": null,
+      "feeds": "",
+      "key": "ws-chq"
+    }
+  ],
+  "gaps": [
+    {
+      "k": "esav-ledger",
+      "sev": "warn",
+      "what": "RBC eSavings has a balance but no ledger",
+      "why": "The statement is a PDF downloaded for the figure; nothing is reconciled line by line",
+      "fix": "Decide whether the interest lines are worth a fourth ledger, or keep it balance-only"
+    }
+  ],
+  "missing": [
+    {
+      "ep": "RBC",
+      "t": "Line-by-line for eSavings 7758",
+      "d": "Balance only — the statement is downloaded for the figure, not parsed"
+    }
+  ],
+  "documents": [
+    {
+      "key": "Chequing 4471",
+      "ep": "BMO",
+      "file": "<Month D, YYYY>.pdf",
+      "closes": "5th",
+      "feeds": "Pay, transfers, cash flow",
+      "covers": [
+        "bmo-chq-4471"
+      ],
+      "tags": [
+        "BMO_CHQ4471"
+      ],
+      "into": "chequing.csv",
+      "reconcile": "opening + in - out = closing",
+      "parser": "bmo_banking"
+    },
+    {
+      "key": "Savings 9032",
+      "ep": "BMO",
+      "file": "<Month D, YYYY>-2.pdf",
+      "closes": "5th",
+      "feeds": "Balance and savings ledger",
+      "covers": [
+        "bmo-sav-9032"
+      ],
+      "tags": [
+        "BMO_SAV9032"
+      ],
+      "into": "bmo_savings.csv",
+      "reconcile": "balance chain closes",
+      "parser": "bmo_banking",
+      "from": "2026-05"
+    },
+    {
+      "key": "MasterCard 5518",
+      "ep": "BMO",
+      "file": "<Month D, YYYY>.pdf",
+      "closes": "20th",
+      "feeds": "Spending, plan, baseline",
+      "covers": [
+        "bmo-mc-5518"
+      ],
+      "tags": [
+        "BMO_MC5518"
+      ],
+      "into": "spending.csv",
+      "reconcile": "parsed total = Purchases and other charges + interest + Fees",
+      "parser": "bmo_mastercard",
+      "from": "2026-05"
+    },
+    {
+      "key": "Day to Day 7740",
+      "ep": "RBC",
+      "file": "Chequing Statement-7740 <date>.pdf",
+      "closes": "25th",
+      "feeds": "Cash flow, debit spending",
+      "covers": [
+        "rbc-chq-7740"
+      ],
+      "tags": [
+        "RBC_CHQ7740"
+      ],
+      "into": "rbc_chequing.csv",
+      "reconcile": "balance chain closes",
+      "parser": "rbc_banking"
+    },
+    {
+      "key": "eSavings 7758",
+      "ep": "RBC",
+      "file": "Savings Statement-7758 <date>.pdf",
+      "closes": "25th",
+      "feeds": "Balance",
+      "covers": [
+        "rbc-esav-7758"
+      ],
+      "tags": [
+        "RBC_eSAV7758"
+      ],
+      "into": "banks.json",
+      "reconcile": "balance and as-of only",
+      "parser": "rbc_banking"
+    },
+    {
+      "key": "Cash Back Visa 3306",
+      "ep": "RBC",
+      "file": "Visa Statement-3306 <date>.pdf",
+      "closes": "19th",
+      "feeds": "Spending, plan, baseline",
+      "covers": [
+        "rbc-visa-3306"
+      ],
+      "tags": [
+        "Visa_Statement3306"
+      ],
+      "into": "spending.csv",
+      "reconcile": "parsed total = Purchases & debits + Fees",
+      "parser": "rbc_visa"
+    },
+    {
+      "key": "Holdings",
+      "ep": "Wealthsimple",
+      "file": "holdings-report-<date>.csv",
+      "closes": "any time",
+      "feeds": "Portfolio, dry powder, net worth",
+      "covers": [
+        "ws-nr",
+        "ws-tfsa",
+        "ws-hys",
+        "ws-fhsa",
+        "ws-rrsp",
+        "ws-crypto"
+      ],
+      "tags": [
+        "WS_HOLDINGS"
+      ],
+      "into": "holdings_latest.csv",
+      "reconcile": "replaced wholesale",
+      "from": "2026-06"
+    },
+    {
+      "key": "Activities",
+      "ep": "Wealthsimple",
+      "file": "activities-export-<date>.csv",
+      "closes": "any time",
+      "feeds": "Dividends, trades, deposits, exchange rate",
+      "covers": [
+        "ws-nr",
+        "ws-tfsa",
+        "ws-hys",
+        "ws-fhsa",
+        "ws-rrsp",
+        "ws-crypto",
+        "ws-chq"
+      ],
+      "tags": [
+        "WS"
+      ],
+      "into": "ws_activities.csv",
+      "reconcile": "also refresh fx.json from the 'FX Rate:' rows",
+      "from": "2026-06"
+    },
+    {
+      "key": "Friend ledger",
+      "ep": "Interac",
+      "file": "friend_ledger.csv",
+      "closes": "when it changes",
+      "feeds": "Who an Interac transfer came from",
+      "covers": [],
+      "tags": [
+        "FRIEND"
+      ],
+      "into": "friend_ledger.csv",
+      "reconcile": "counterparty only; never counted as income",
+      "optional": true,
+      "counterparty": "Sam"
+    }
+  ],
+  "archive_note": "Processed files are moved to archive/ as YYYYMMDD_<tag>_<original name>; the tag is documents[].tags."
+}

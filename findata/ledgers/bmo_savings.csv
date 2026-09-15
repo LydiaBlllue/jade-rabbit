@@ -1,0 +1,10 @@
+date,description,amount,balance,statement,type,label
+2026-05-05,"OnlineTransfer,TF0006#4471-9032",500.00,500.00,BMOSAV9032/20260505,Transfer,Transfer from chequing
+2026-05-31,InterestEarned,0.29,500.29,BMOSAV9032/20260605,Interest,Interest
+2026-06-05,"OnlineTransfer,TF0006#4471-9032",500.00,1000.29,BMOSAV9032/20260605,Transfer,Transfer from chequing
+2026-06-30,InterestEarned,0.71,1001.00,BMOSAV9032/20260705,Interest,Interest
+2026-07-05,"OnlineTransfer,TF0006#4471-9032",500.00,1501.00,BMOSAV9032/20260705,Transfer,Transfer from chequing
+2026-07-31,InterestEarned,1.10,1502.10,BMOSAV9032/20260805,Interest,Interest
+2026-08-05,"OnlineTransfer,TF0006#4471-9032",500.00,2002.10,BMOSAV9032/20260805,Transfer,Transfer from chequing
+2026-08-31,InterestEarned,1.52,2003.62,BMOSAV9032/20260905,Interest,Interest
+2026-09-05,"OnlineTransfer,TF0006#4471-9032",500.00,2503.62,BMOSAV9032/20260905,Transfer,Transfer from chequing

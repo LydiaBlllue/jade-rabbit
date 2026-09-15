@@ -1,0 +1,17 @@
+# Your own statements and processed originals never belong in a public remote.
+inbox/*
+!inbox/README.txt
+!inbox/.gitkeep
+archive/*
+!archive/.gitkeep
+
+# The findata/ shipped here is synthetic. If you replace it with your own, add it here:
+# findata/
+
+.DS_Store
+__pycache__/
+.claude/settings.local.json
+
+# the owner's private deny list, if a workspace is ever opened here
+.private/
+findata/register/setup-answers.json

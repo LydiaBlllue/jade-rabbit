@@ -1,0 +1,17 @@
+{
+  "note": "One net-worth point per month, appended on every 'update dashboards' when the holdings export reaches a new month.",
+  "snapshots": [
+    {
+      "ym": "2026-06",
+      "v": 86910
+    },
+    {
+      "ym": "2026-08",
+      "v": 96420
+    },
+    {
+      "ym": "2026-09",
+      "v": 101791
+    }
+  ]
+}

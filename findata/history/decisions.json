@@ -1,0 +1,31 @@
+{
+  "note": "What is waiting for the owner to confirm, written by the import: a merchant seen for the first time, an e-Transfer typed by default, a transfer whose other side is unknown, a file nobody could name. Each item: `added`, `kind` (merchant / transfer / file / classification), `what` (one sentence, about the money), `default` (what was assumed meanwhile), `source` (which statement, which line), `status` open / confirmed, and once confirmed `answer` and `resolved`. Data → Updates lists the open ones and the page header counts them. Separate from tasks.json: these are produced by an import and disappear on a word; tasks are the owner's own.",
+  "decisions": [
+    {
+      "added": "2026-09-06",
+      "kind": "merchant",
+      "what": "FARM BOY OTTAWA has appeared 33 times and is filed as Grocery.",
+      "default": "Grocery",
+      "source": "Cash Back Visa, most recently Aug 14",
+      "status": "open"
+    },
+    {
+      "added": "2026-09-06",
+      "kind": "transfer",
+      "what": "A $200 e-Transfer received on Aug 11 carries no sender name.",
+      "default": "Other income",
+      "source": "Chequing statement to Sep 5",
+      "status": "open"
+    },
+    {
+      "added": "2026-08-12",
+      "kind": "merchant",
+      "what": "STEAM PURCHASE SEATTLE, seen for the first time.",
+      "default": "Shopping",
+      "source": "Cash Back Visa, Aug 3",
+      "status": "confirmed",
+      "answer": "Entertainment",
+      "resolved": "2026-08-12"
+    }
+  ]
+}

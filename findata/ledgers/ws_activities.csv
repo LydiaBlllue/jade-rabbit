@@ -1,0 +1,141 @@
+effective_date,effective_time,settlement_date,account_id,account_type,activity_type,activity_sub_type,description,direction,symbol,underlying symbol,name,currency,quantity,unit_price,commission,net_cash_amount
+2026-01-01,10:59:59,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-01-01),,,,,CAD,,,,0.52
+2026-01-02,10:36:40,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-01-03,15:58:22,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-01-03,15:14:55,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-01-03),,,,,USD,,,,-4.82
+2026-01-03,14:55:07,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-01-03,15:53:17,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-01-03,16:18:39,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-01-03),,,,,USD,,,,-1.11
+2026-01-08,14:10:25,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-01-08,14:15:47,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-01-08,16:18:44,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-01-08,13:22:10,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-01-12,13:19:50,,HQ7TF4A21CAD,TFSA,Dividend,-,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Cash dividend distribution,,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,,,,106.40
+2026-01-12,09:58:47,,HQ7RR9B33CAD,RRSP,Dividend,-,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Cash dividend distribution,,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,,,,32.77
+2026-01-17,15:39:08,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-01-18,15:50:58,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-01-18),,,,,CAD,,,,-800.00
+2026-01-18,12:29:43,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-01-18),,,,,CAD,,,,800.00
+2026-01-19,11:28:30,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-01-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-01-31,16:27:00,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.05
+2026-02-01,14:31:41,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-02-01),,,,,CAD,,,,0.61
+2026-02-02,13:58:12,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-02-03,12:38:30,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-02-03,09:28:55,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-02-03),,,,,USD,,,,-4.82
+2026-02-03,14:13:37,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-02-03,09:59:12,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-02-03,16:31:22,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-02-03),,,,,USD,,,,-1.11
+2026-02-08,14:42:43,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-02-08,12:17:51,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-02-08,14:48:22,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-02-08,15:16:43,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-02-17,10:47:22,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-02-18,14:53:03,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-02-18),,,,,CAD,,,,-800.00
+2026-02-18,14:15:52,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-02-18),,,,,CAD,,,,800.00
+2026-02-19,11:07:02,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-02-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-02-28,10:03:30,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.06
+2026-03-01,16:25:25,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-03-01),,,,,CAD,,,,0.43
+2026-03-02,15:43:51,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-03-03,16:33:46,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-03-03,12:37:16,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-03-03),,,,,USD,,,,-4.82
+2026-03-03,13:46:50,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-03-03,14:13:08,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-03-03,13:18:50,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-03-03),,,,,USD,,,,-1.11
+2026-03-08,15:07:16,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-03-08,12:11:50,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-03-08,13:48:03,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-03-08,16:17:47,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-03-17,14:04:09,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-03-18,11:53:04,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-03-18),,,,,CAD,,,,-800.00
+2026-03-18,11:34:20,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-03-18),,,,,CAD,,,,800.00
+2026-03-19,16:51:46,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-03-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-03-31,15:11:28,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.06
+2026-04-01,15:22:08,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-04-01),,,,,CAD,,,,0.59
+2026-04-02,13:59:27,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-04-03,14:58:17,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-04-03,09:32:54,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-04-03),,,,,USD,,,,-4.82
+2026-04-03,15:56:10,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-04-03,15:39:41,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-04-03,10:51:15,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-04-03),,,,,USD,,,,-1.11
+2026-04-08,14:32:37,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-04-08,12:29:20,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-04-08,12:21:23,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-04-08,10:36:13,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-04-12,11:39:54,,HQ7TF4A21CAD,TFSA,Dividend,-,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Cash dividend distribution,,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,,,,106.40
+2026-04-12,10:00:20,,HQ7RR9B33CAD,RRSP,Dividend,-,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Cash dividend distribution,,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,,,,32.77
+2026-04-17,16:40:37,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-04-18,11:32:50,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-04-18),,,,,CAD,,,,-800.00
+2026-04-18,15:05:11,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-04-18),,,,,CAD,,,,800.00
+2026-04-19,10:16:47,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-04-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-04-30,16:00:39,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.06
+2026-05-01,12:29:15,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-05-01),,,,,CAD,,,,0.65
+2026-05-02,13:37:27,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-05-03,13:16:30,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-05-03,14:44:48,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-05-03),,,,,USD,,,,-4.82
+2026-05-03,09:19:06,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-05-03,11:48:19,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-05-03,15:36:35,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-05-03),,,,,USD,,,,-1.11
+2026-05-08,14:45:15,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-05-08,16:37:47,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-05-08,15:29:22,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-05-08,14:33:24,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-05-17,16:40:09,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-05-18,16:37:26,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-05-18),,,,,CAD,,,,-800.00
+2026-05-18,14:06:42,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-05-18),,,,,CAD,,,,800.00
+2026-05-19,14:31:56,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-05-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-05-31,09:41:02,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.04
+2026-06-01,13:30:53,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-06-01),,,,,CAD,,,,0.44
+2026-06-02,11:23:22,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-06-03,11:34:55,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-06-03,13:14:46,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-06-03),,,,,USD,,,,-4.82
+2026-06-03,11:23:20,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-06-03,16:34:32,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-06-03,16:21:33,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-06-03),,,,,USD,,,,-1.11
+2026-06-08,14:16:30,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-06-08,13:17:08,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-06-08,13:56:24,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-06-08,11:38:02,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-06-10,12:48:38,,HQ7CR8F62CAD,Crypto,Trade,BUY,"Purchase of 0.00040000 BTC (executed at 2026-06-10), FX Rate: 1.3690",,BTC,,Bitcoin,CAD,0.0004,,,-50.00
+2026-06-17,15:59:22,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-06-18,13:56:18,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-06-18),,,,,CAD,,,,-800.00
+2026-06-18,13:07:48,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-06-18),,,,,CAD,,,,800.00
+2026-06-19,16:23:39,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-06-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-06-25,14:29:49,,HQ7NR6D48CAD,Non-registered,Dividend,-,XAW - iShares Core MSCI All Country World ex Canada Index ETF: Cash dividend distribution,,XAW,,iShares Core MSCI All Country World ex Canada Index ETF,CAD,,,,26.35
+2026-06-30,09:53:12,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.04
+2026-07-01,14:01:51,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-07-01),,,,,CAD,,,,0.51
+2026-07-02,12:22:48,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-07-03,15:42:11,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-07-03,13:07:53,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-07-03),,,,,USD,,,,-4.82
+2026-07-03,14:35:54,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-07-03,11:34:44,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-07-03,12:29:40,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-07-03),,,,,USD,,,,-1.11
+2026-07-08,12:02:18,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-07-08,09:09:30,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-07-08,09:08:44,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-07-08,12:17:07,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-07-12,14:28:20,,HQ7TF4A21CAD,TFSA,Dividend,-,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Cash dividend distribution,,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,,,,106.40
+2026-07-12,13:46:59,,HQ7RR9B33CAD,RRSP,Dividend,-,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Cash dividend distribution,,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,,,,32.77
+2026-07-15,11:01:30,,HQ7CR8F62CAD,Crypto,Trade,BUY,"Purchase of 0.00040000 BTC (executed at 2026-07-15), FX Rate: 1.3655",,BTC,,Bitcoin,CAD,0.0004,,,-50.00
+2026-07-17,10:20:21,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-07-18,12:32:28,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-07-18),,,,,CAD,,,,-800.00
+2026-07-18,11:30:37,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-07-18),,,,,CAD,,,,800.00
+2026-07-19,13:16:33,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-07-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-07-31,09:05:43,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.04
+2026-08-01,09:13:24,,WK7CQ1G90CAD,Chequing,Interest,-,Interest received (executed at 2026-08-01),,,,,CAD,,,,0.41
+2026-08-02,10:50:53,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-08-03,12:49:57,,HQ7NR6D48CAD,Non-registered,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,32.16
+2026-08-03,16:34:25,,HQ7NR6D48CAD,Non-registered,Tax,NRT,Non-resident tax (executed at 2026-08-03),,,,,USD,,,,-4.82
+2026-08-03,12:56:12,,HQ7RR9B33CAD,RRSP,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,10.72
+2026-08-03,15:52:21,,HQ7HY3E05CAD,High-yield savings,Dividend,-,SGOV - iShares Trust - iShares 0-3 Month Treasury Bond ETF: Cash dividend distribution,,SGOV,,iShares Trust - iShares 0-3 Month Treasury Bond ETF,USD,,,,7.40
+2026-08-03,13:39:36,,HQ7HY3E05CAD,High-yield savings,Tax,NRT,Non-resident tax (executed at 2026-08-03),,,,,USD,,,,-1.11
+2026-08-08,14:03:50,,HQ7TF4A21CAD,TFSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,24.30
+2026-08-08,15:28:22,,HQ7NR6D48CAD,Non-registered,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,12.15
+2026-08-08,15:00:34,,HQ7FH2C17CAD,FHSA,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,11.70
+2026-08-08,14:06:09,,HQ7HY3E05CAD,High-yield savings,Dividend,-,VSC - Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF: Cash dividend distribution,,VSC,,Vanguard Investments Canada Inc. - Canadian Short-term Corporate Bond Index ETF,CAD,,,,19.80
+2026-08-12,12:10:11,,HQ7TF4A21CAD,TFSA,Trade,BUY,SHOP - Shopify Inc.: Bought 20.4626 shares at $112.40 per share (executed at 2026-08-12),,SHOP,,Shopify Inc.,CAD,20.4626,112.4,,-2300.00
+2026-08-17,16:54:19,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-08-18,12:38:11,,WK7CQ1G90CAD,Chequing,MoneyMovement,TRANSFER,Money transfer out of the account (executed at 2026-08-18),,,,,CAD,,,,-800.00
+2026-08-18,10:33:32,,HQ7TF4A21CAD,TFSA,MoneyMovement,TRANSFER_TF,Money transfer into the account (executed at 2026-08-18),,,,,CAD,,,,800.00
+2026-08-19,15:27:56,,HQ7TF4A21CAD,TFSA,Trade,BUY,VEQT - Vanguard All-Equity ETF Portfolio - ETF: Bought 17.3536 shares at $46.1 per share (executed at 2026-08-19),,VEQT,,Vanguard All-Equity ETF Portfolio - ETF,CAD,17.3536,46.1,,-800.00
+2026-08-31,10:41:51,,HQ7TF4A21CAD,TFSA,Interest,-,Stock lending monthly interest payment,,,,,CAD,,,,0.07
+2026-09-02,11:58:18,,WK7CQ1G90CAD,Chequing,MoneyMovement,EFT,Deposit,,,,,CAD,,,,400.00
+2026-09-04,10:32:55,,HQ7CR8F62CAD,Crypto,Trade,BUY,"Purchase of 0.00040000 BTC (executed at 2026-09-04), FX Rate: 1.3712",,BTC,,Bitcoin,CAD,0.0004,,,-50.00

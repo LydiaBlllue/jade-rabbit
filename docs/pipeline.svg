@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 698" width="1400" height="698" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b6f6c"/></marker></defs>
+<rect width="1400" height="698" fill="white"/>
+<rect x="20" y="30" width="1360" height="118" rx="6" fill="#f9f9f7" stroke="#d8dcd9"/>
+<text x="32" y="93.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">YOU</text>
+<rect x="20" y="160" width="1360" height="118" rx="6" fill="#f9f9f7" stroke="#d8dcd9"/>
+<text x="32" y="223.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">GUARDS</text>
+<rect x="20" y="290" width="1360" height="118" rx="6" fill="#f9f9f7" stroke="#d8dcd9"/>
+<text x="32" y="347.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">UPDATE.PY ·</text>
+<text x="32" y="362.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">ONE LOCAL RUN</text>
+<rect x="20" y="420" width="1360" height="118" rx="6" fill="#f9f9f7" stroke="#d8dcd9"/>
+<text x="32" y="483.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">FILES</text>
+<rect x="20" y="550" width="1360" height="118" rx="6" fill="#f9f9f7" stroke="#d8dcd9"/>
+<text x="32" y="607.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">CHECKS ·</text>
+<text x="32" y="622.0" fill="#6b6f6c" font-weight="700" font-size="12" letter-spacing=".04em">WORKSPACE-CHECKS</text>
+<path d="M266,127 L266,441" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M266,441 L266,219 L375,219" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M466,127 L466,181" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M357,219 L375,219" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)" stroke-dasharray="5,4"/>
+<rect x="350" y="211" width="32" height="15" fill="white"/>
+<text x="366" y="222" text-anchor="middle" fill="#6b6f6c" font-size="10">runs</text>
+<path d="M466,257 L466,349 L575,349" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M757,349 L775,349" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M866,257 L866,311" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)" stroke-dasharray="5,4"/>
+<rect x="850" y="276" width="32" height="15" fill="white"/>
+<text x="866" y="287" text-anchor="middle" fill="#6b6f6c" font-size="10">gate</text>
+<path d="M866,387 L866,441" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M866,441 L866,349 L975,349" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1066,387 L1066,441" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M866,387 L866,571" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)" stroke-dasharray="5,4"/>
+<rect x="808" y="471" width="116" height="15" fill="white"/>
+<text x="866" y="482" text-anchor="middle" fill="#6b6f6c" font-size="10">every Edit / Write</text>
+<path d="M1066,517 L1066,571" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1157,349 L1175,349" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1266,387 L1266,441" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M1066,571 L1066,89 L1175,89" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M557,609 L775,609" fill="none" stroke="#6b6f6c" stroke-width="1.5" marker-end="url(#arr)" stroke-dasharray="5,4"/>
+<rect x="605" y="601" width="122" height="15" fill="white"/>
+<text x="666" y="612" text-anchor="middle" fill="#6b6f6c" font-size="10">checks the checkers</text>
+<rect x="175" y="51" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#1c1c1a" stroke-width="2"/>
+<text x="266.0" y="78" text-anchor="middle" fill="#1c1c1a">Drop the month&#x27;s</text>
+<text x="266.0" y="93" text-anchor="middle" fill="#1c1c1a">statements and broker</text>
+<text x="266.0" y="108" text-anchor="middle" fill="#1c1c1a">exports into inbox/</text>
+<rect x="375" y="51" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#1c1c1a" stroke-width="2"/>
+<text x="466.0" y="93" text-anchor="middle" fill="#1c1c1a">Say “update dashboards”</text>
+<rect x="1175" y="51" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#1c1c1a" stroke-width="2"/>
+<text x="1266.0" y="63" text-anchor="middle" fill="#1c1c1a">Claude reads the summary —</text>
+<text x="1266.0" y="78" text-anchor="middle" fill="#1c1c1a">never the rows — and asks</text>
+<text x="1266.0" y="93" text-anchor="middle" fill="#1c1c1a">you only what a program</text>
+<text x="1266.0" y="108" text-anchor="middle" fill="#1c1c1a">cannot decide; the report</text>
+<text x="1266.0" y="123" text-anchor="middle" fill="#1c1c1a">is the record read out</text>
+<rect x="175" y="181" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#6b6f6c" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="266.0" y="208" text-anchor="middle" fill="#1c1c1a">Scheduled task · 26th</text>
+<text x="266.0" y="223" text-anchor="middle" fill="#1c1c1a">09:00 — readiness check</text>
+<text x="266.0" y="238" text-anchor="middle" fill="#1c1c1a">only, writes nothing</text>
+<rect x="375" y="181" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<text x="466.0" y="200" text-anchor="middle" fill="#1c1c1a">preflight.py — names every</text>
+<text x="466.0" y="216" text-anchor="middle" fill="#1c1c1a">inbox file, hashes inbox/</text>
+<text x="466.0" y="230" text-anchor="middle" fill="#1c1c1a">+ findata/, flags anything</text>
+<text x="466.0" y="246" text-anchor="middle" fill="#1c1c1a">over 30 days</text>
+<rect x="775" y="181" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="866.0" y="208" text-anchor="middle" fill="#1c1c1a">--verify before every</text>
+<text x="866.0" y="223" text-anchor="middle" fill="#1c1c1a">write · --reseed after</text>
+<text x="866.0" y="238" text-anchor="middle" fill="#1c1c1a">your own</text>
+<rect x="575" y="311" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#4a3aa7" stroke-width="2"/>
+<text x="666.0" y="316" text-anchor="middle" fill="#1c1c1a">Steps 1–2 · parsers read</text>
+<text x="666.0" y="330" text-anchor="middle" fill="#1c1c1a">each statement, reconcile</text>
+<text x="666.0" y="346" text-anchor="middle" fill="#1c1c1a">it</text>
+<text x="666.0" y="360" text-anchor="middle" fill="#1c1c1a">(documents[].reconcile),</text>
+<text x="666.0" y="376" text-anchor="middle" fill="#1c1c1a">categorise via</text>
+<text x="666.0" y="390" text-anchor="middle" fill="#1c1c1a">merchants.json</text>
+<rect x="775" y="311" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#4a3aa7" stroke-width="2"/>
+<text x="866.0" y="330" text-anchor="middle" fill="#1c1c1a">Step 3 · writes the</text>
+<text x="866.0" y="346" text-anchor="middle" fill="#1c1c1a">ledgers, spending.csv,</text>
+<text x="866.0" y="360" text-anchor="middle" fill="#1c1c1a">banks.json and the</text>
+<text x="866.0" y="376" text-anchor="middle" fill="#1c1c1a">registry copies</text>
+<rect x="975" y="311" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#4a3aa7" stroke-width="2"/>
+<text x="1066.0" y="338" text-anchor="middle" fill="#1c1c1a">Step 4 · rebuild.py — 44</text>
+<text x="1066.0" y="353" text-anchor="middle" fill="#1c1c1a">dashboard constants</text>
+<text x="1066.0" y="368" text-anchor="middle" fill="#1c1c1a">recomputed from findata/</text>
+<rect x="1175" y="311" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#4a3aa7" stroke-width="2"/>
+<text x="1266.0" y="338" text-anchor="middle" fill="#1c1c1a">Steps 6–7 · archives as</text>
+<text x="1266.0" y="353" text-anchor="middle" fill="#1c1c1a">YYYYMMDD_&lt;tag&gt;_&lt;name&gt;,</text>
+<text x="1266.0" y="368" text-anchor="middle" fill="#1c1c1a">appends the update record</text>
+<rect x="175" y="441" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#eda100" stroke-width="2"/>
+<text x="266.0" y="483" text-anchor="middle" fill="#1c1c1a">inbox/</text>
+<rect x="775" y="441" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#eda100" stroke-width="2"/>
+<text x="866.0" y="468" text-anchor="middle" fill="#1c1c1a">findata/ — accounts.json</text>
+<text x="866.0" y="483" text-anchor="middle" fill="#1c1c1a">registry, ledgers,</text>
+<text x="866.0" y="498" text-anchor="middle" fill="#1c1c1a">holdings, funds, merchants</text>
+<rect x="975" y="441" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#eda100" stroke-width="2"/>
+<text x="1066.0" y="468" text-anchor="middle" fill="#1c1c1a">dashboards/finance_dashboard.html</text>
+<text x="1066.0" y="483" text-anchor="middle" fill="#1c1c1a">— one self-contained page,</text>
+<text x="1066.0" y="498" text-anchor="middle" fill="#1c1c1a">no server</text>
+<rect x="1175" y="441" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#eda100" stroke-width="2"/>
+<text x="1266.0" y="483" text-anchor="middle" fill="#1c1c1a">archive/</text>
+<rect x="375" y="571" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#008300" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="466.0" y="598" text-anchor="middle" fill="#1c1c1a">selftest.py — plants 44</text>
+<text x="466.0" y="613" text-anchor="middle" fill="#1c1c1a">faults; every checker must</text>
+<text x="466.0" y="628" text-anchor="middle" fill="#1c1c1a">fire</text>
+<rect x="775" y="571" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#008300" stroke-width="2"/>
+<text x="866.0" y="590" text-anchor="middle" fill="#1c1c1a">PostToolUse hook →</text>
+<text x="866.0" y="606" text-anchor="middle" fill="#1c1c1a">check_data.py: balance</text>
+<text x="866.0" y="620" text-anchor="middle" fill="#1c1c1a">chains, rules, registry,</text>
+<text x="866.0" y="636" text-anchor="middle" fill="#1c1c1a">copies</text>
+<rect x="975" y="571" width="182" height="76" rx="9" fill="#fcfcfb" stroke="#008300" stroke-width="2"/>
+<text x="1066.0" y="590" text-anchor="middle" fill="#1c1c1a">check_design.py</text>
+<text x="1066.0" y="606" text-anchor="middle" fill="#1c1c1a">(DESIGN.md) ·</text>
+<text x="1066.0" y="620" text-anchor="middle" fill="#1c1c1a">check_render.py (headless</text>
+<text x="1066.0" y="636" text-anchor="middle" fill="#1c1c1a">Chromium, 3 widths)</text>
+</svg>

@@ -1,0 +1,214 @@
+{
+  "note": "Merchant -> spending category, the only place a category is decided. Look a new statement's merchants up here first; reuse a hit, judge only a miss, and append the miss.",
+  "why": "A merchant string is an abbreviation, not a sentence: a shop with PUBLICATION in its name sold a notebook, not a subscription.",
+  "rules": [
+    "Subscription means the charge repeats. A brand seen once is never a Subscription; file it as Shopping or Other and mark it to confirm.",
+    "An entry with confirmed_by is not re-judged; changing it needs the owner and a new confirmed_on.",
+    "Every merchant seen for the first time goes on the report for the owner to confirm."
+  ],
+  "merchants": [
+    {
+      "match": "AMAZON PRIME MEMBER AMAZON.CA",
+      "category": "Subscription",
+      "seen": 8,
+      "first": "2025-12-22",
+      "last": "2026-07-22"
+    },
+    {
+      "match": "AMAZON.CA AMAZON.CA",
+      "category": "Shopping",
+      "seen": 8,
+      "first": "2025-12-27",
+      "last": "2026-07-29"
+    },
+    {
+      "match": "AMZN MKTP",
+      "category": "Shopping",
+      "seen": 7,
+      "first": "2026-01-14",
+      "last": "2026-07-06"
+    },
+    {
+      "match": "APPLE.COM/BILL TORONTO",
+      "category": "Subscription",
+      "seen": 8,
+      "first": "2026-01-16",
+      "last": "2026-08-16"
+    },
+    {
+      "match": "BEST BUY OTTAWA",
+      "category": "Shopping",
+      "seen": 1,
+      "first": "2026-06-14",
+      "last": "2026-06-14"
+    },
+    {
+      "match": "CANADA POST OTTAWA",
+      "category": "Other",
+      "seen": 2,
+      "first": "2026-01-08",
+      "last": "2026-02-20"
+    },
+    {
+      "match": "CANADIAN TIRE OTTAWA",
+      "category": "Shopping",
+      "seen": 3,
+      "first": "2026-03-29",
+      "last": "2026-06-17"
+    },
+    {
+      "match": "CINEPLEX 7620 OTTAWA",
+      "category": "Entertainment",
+      "seen": 5,
+      "first": "2026-01-15",
+      "last": "2026-07-22"
+    },
+    {
+      "match": "COSTCO WHOLESALE W1211 OTTAWA",
+      "category": "Grocery",
+      "seen": 7,
+      "first": "2026-01-20",
+      "last": "2026-07-28"
+    },
+    {
+      "match": "DOLLARAMA OTTAWA",
+      "category": "Shopping",
+      "seen": 8,
+      "first": "2025-12-25",
+      "last": "2026-07-20"
+    },
+    {
+      "match": "FARM BOY OTTAWA",
+      "category": "Grocery",
+      "seen": 33,
+      "first": "2025-12-21",
+      "last": "2026-08-13"
+    },
+    {
+      "match": "GOODLIFE FITNESS TORONTO",
+      "category": "Subscription",
+      "seen": 8,
+      "first": "2026-01-01",
+      "last": "2026-08-01"
+    },
+    {
+      "match": "IKEA OTTAWA",
+      "category": "Shopping",
+      "seen": 1,
+      "first": "2026-04-25",
+      "last": "2026-04-25"
+    },
+    {
+      "match": "KOODO MOBILE",
+      "category": "Subscription",
+      "seen": 8,
+      "first": "2026-01-10",
+      "last": "2026-08-10"
+    },
+    {
+      "match": "LOBLAWS 1234 OTTAWA",
+      "category": "Grocery",
+      "seen": 15,
+      "first": "2026-01-08",
+      "last": "2026-08-18"
+    },
+    {
+      "match": "METRO 456 OTTAWA",
+      "category": "Grocery",
+      "seen": 7,
+      "first": "2026-01-19",
+      "last": "2026-07-13"
+    },
+    {
+      "match": "NETFLIX.COM NETFLIX.COM",
+      "category": "Subscription",
+      "seen": 8,
+      "first": "2026-01-12",
+      "last": "2026-08-12"
+    },
+    {
+      "match": "OC TRANSPO MONTHLY PASS OTTAWA",
+      "category": "Transport",
+      "seen": 8,
+      "first": "2025-12-26",
+      "last": "2026-07-26"
+    },
+    {
+      "match": "SHOPPERS DRUG MART 0781 OTTAWA",
+      "category": "Shopping",
+      "seen": 16,
+      "first": "2025-12-28",
+      "last": "2026-07-22"
+    },
+    {
+      "match": "SPOTIFY SPOTIFY.COM",
+      "category": "Subscription",
+      "seen": 8,
+      "first": "2026-01-04",
+      "last": "2026-08-04"
+    },
+    {
+      "match": "STARBUCKS 1100 OTTAWA",
+      "category": "Dining",
+      "seen": 8,
+      "first": "2026-01-31",
+      "last": "2026-08-19"
+    },
+    {
+      "match": "STEAM PURCHASE SEATTLE",
+      "category": "Entertainment",
+      "seen": 4,
+      "first": "2026-03-05",
+      "last": "2026-06-15"
+    },
+    {
+      "match": "SUBWAY 40112 OTTAWA",
+      "category": "Dining",
+      "seen": 8,
+      "first": "2026-01-22",
+      "last": "2026-08-12"
+    },
+    {
+      "match": "THAI EXPRESS OTTAWA",
+      "category": "Dining",
+      "seen": 8,
+      "first": "2025-12-29",
+      "last": "2026-07-28"
+    },
+    {
+      "match": "TICKETMASTER CANADA TORONTO",
+      "category": "Entertainment",
+      "seen": 1,
+      "first": "2026-07-18",
+      "last": "2026-07-18"
+    },
+    {
+      "match": "TIM HORTONS OTTAWA",
+      "category": "Dining",
+      "seen": 32,
+      "first": "2025-12-28",
+      "last": "2026-08-19"
+    },
+    {
+      "match": "UBER CANADA/UBEREATS TORONTO",
+      "category": "Dining",
+      "seen": 17,
+      "first": "2025-12-23",
+      "last": "2026-08-17"
+    },
+    {
+      "match": "UBER CANADA/UBERTRIP TORONTO",
+      "category": "Transport",
+      "seen": 7,
+      "first": "2026-01-19",
+      "last": "2026-07-13"
+    },
+    {
+      "match": "WINNERS 3215 OTTAWA",
+      "category": "Shopping",
+      "seen": 5,
+      "first": "2026-01-04",
+      "last": "2026-08-19"
+    }
+  ]
+}

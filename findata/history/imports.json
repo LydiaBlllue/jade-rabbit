@@ -1,0 +1,65 @@
+{
+  "note": "One record per 'update dashboards', newest last: the files that came in, what changed (label / from / to), what was noticed (sev ok / warn / bad + text), what was decided without asking (`judged`) and what the owner was asked (`asked`). Data → Updates renders it; the import report IS this record. Every sentence here reaches the page: write it about the owner's money, never about the tool — no 'I', no rule numbers, no file names.",
+  "imports": [
+    {
+      "date": "2026-09-06",
+      "files": [
+        "Cash Back Visa statement to Aug 19",
+        "MasterCard statement to Aug 20",
+        "Chequing and savings statements to Sep 5",
+        "Holdings report of Sep 6",
+        "Activities export of Sep 6"
+      ],
+      "changed": [
+        {
+          "label": "Dry powder",
+          "from": "44.4%",
+          "to": "43.1%"
+        },
+        {
+          "label": "Holdings",
+          "from": 9,
+          "to": 8
+        },
+        {
+          "label": "Spending in August",
+          "from": "$0",
+          "to": "$1,244"
+        }
+      ],
+      "noticed": [
+        {
+          "sev": "ok",
+          "text": "Dry powder is 43.1%, inside your 40–45% band: SGOV and VSC hold $28,950 of the $67,135 Canadian side."
+        },
+        {
+          "sev": "ok",
+          "text": "8 holdings, inside your limit of 10. The middle tier is one bond ETF, ZAG at $1,400."
+        },
+        {
+          "sev": "ok",
+          "text": "August kept the rule: two deposits of $400 reached the broker on Aug 2 and Aug 17."
+        },
+        {
+          "sev": "ok",
+          "text": "Every statement due has arrived. The next to close are the MasterCard on Sep 20 and the RBC pair on Sep 25."
+        },
+        {
+          "sev": "warn",
+          "text": "The $1,500 e-Transfer from Sam on Jul 13 is the March loan coming back, so it is not income."
+        },
+        {
+          "sev": "warn",
+          "text": "June went over the everyday allowance even with the $429.99 monitor set aside as a big buy."
+        }
+      ],
+      "judged": [
+        "Filed the $429.99 monitor in June as a big buy rather than everyday spending.",
+        "Typed the Jul 13 e-Transfer from Sam as a repayment, matching the friend ledger."
+      ],
+      "asked": [
+        "Whether FARM BOY OTTAWA stays in Grocery, and what the unnamed $200 e-Transfer of Aug 11 was."
+      ]
+    }
+  ]
+}

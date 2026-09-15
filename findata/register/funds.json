@@ -1,0 +1,101 @@
+{
+  "asof_note": "The guilt-free plan: pay-yourself-first, one everyday allowance, two named funds. The dashboard's FUNDS constant is a copy of this file (check_data D13). Fields that render on the page are English.",
+  "plan": {
+    "start": "2026-08",
+    "flows": [
+      {
+        "key": "pay",
+        "kind": "income",
+        "name": "Take-home pay",
+        "amount": 3600,
+        "note": "Payroll of $1,800 twice a month. Investment income stays with the broker and is not counted."
+      },
+      {
+        "key": "rent",
+        "kind": "committed",
+        "name": "Rent",
+        "amount": 1250,
+        "afterFire": "keep",
+        "note": "Pre-authorized on the 1st, from chequing. Still there after FIRE."
+      },
+      {
+        "key": "invest",
+        "kind": "saving",
+        "name": "Invest",
+        "amount": 800,
+        "to": "broker",
+        "note": "Off the top, before anything else — pay-yourself-first."
+      },
+      {
+        "key": "everyday",
+        "kind": "allowance",
+        "name": "Everyday allowance",
+        "amount": 1300,
+        "note": "The guilt-free line. No categories and no caps below it."
+      },
+      {
+        "key": "bigbuy-in",
+        "kind": "saving",
+        "name": "Big buys",
+        "amount": 250,
+        "to": "bigbuy",
+        "note": "$2,350 after rent, less $800 to the broker and $1,300 of allowance. This is everything the paycheque actually has left."
+      }
+    ],
+    "bigThreshold": 300,
+    "leftoverGoesTo": "travel",
+    "bigThresholdNote": "A single transaction at or over this is a big buy: kept out of the allowance and paid from the Big buys fund. Subscriptions are excluded whatever they cost.",
+    "leftoverNote": "Each closed month adds (allowance - everyday spending) to the funds, and that figure is signed: an over month takes from Big buys first, then Travel."
+  },
+  "funds": [
+    {
+      "key": "travel",
+      "role": "topup",
+      "name": "Travel",
+      "color": "#4a3aa7",
+      "goal": 3000,
+      "by": "2027-03",
+      "why": "A week away in March 2027",
+      "opening": {
+        "date": "2026-08-01",
+        "amount": 3000,
+        "from": "Wealthsimple High yield savings (Non-registered) HQ7HY3E05CAD",
+        "note": "Not a transfer — a label on money already in that account, so the goal is met on day one and the discipline is leaving it alone."
+      },
+      "backing": {
+        "account": "HQ7HY3E05CAD",
+        "label": "Wealthsimple High yield savings (Non-registered)",
+        "balance": 9500,
+        "asof": "2026-09-06",
+        "holds": "SGOV and VSC, not cash — spending it means selling first",
+        "note": "Rule 2 already treats this account as earmarked, so naming part of it Travel and part of it Big buys changes no other number on the dashboard."
+      }
+    },
+    {
+      "key": "bigbuy",
+      "role": "big",
+      "name": "Big buys",
+      "color": "#eda100",
+      "goal": null,
+      "why": "One-off purchases like a monitor. If the fund covers it, buy it — it never touches the month's allowance",
+      "opening": {
+        "date": "2026-08-01",
+        "amount": 1000,
+        "from": "Wealthsimple High yield savings (Non-registered) HQ7HY3E05CAD",
+        "note": "Same account, second label. No new account was opened: a chequing account pays nothing, costs a monthly fee, and would add another statement to import every month."
+      },
+      "backing": {
+        "account": "HQ7HY3E05CAD",
+        "label": "Wealthsimple High yield savings (Non-registered)",
+        "balance": 9500,
+        "asof": "2026-09-06",
+        "holds": "SGOV and VSC, not cash — spending it means selling first",
+        "note": "Rule 2 already treats this account as earmarked, so naming part of it Travel and part of it Big buys changes no other number on the dashboard."
+      }
+    }
+  ],
+  "claimsAgainst": {
+    "source": "Each fund names the account it is claimed against, and the claims have to fit inside that account",
+    "note": "Neither fund is an account of its own. Both are labels on one savings account."
+  }
+}
